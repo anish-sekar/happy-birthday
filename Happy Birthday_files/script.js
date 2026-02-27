@@ -22,7 +22,7 @@ $('#play').click(function () {
 });
 var typed = new Typed("#typed", {
     stringsElement: '#typed-strings',
-    typeSpeed: 30,
+    typeSpeed: 15,
     backSpeed: 10,
     loop: true
 });
